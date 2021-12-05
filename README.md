@@ -1,6 +1,6 @@
 # Mohammed haroon
 I'm a JavaScript Full-Stack Developer (Node.js, ReactJS).
-- 🤔 I use daily ```.js```,``` .py```, ```.sql```
+- 🤔 I use daily ```.js```,```.ts```,``` .py```, ```.sql```
 
 Here on my GitHub profile you can see all my projects. Also I like to help new Dev's to get inside this world and learning about software development.
 
