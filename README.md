@@ -13,7 +13,12 @@ Here on my GitHub profile you can see all my projects. Also I like to help new D
 
 
 ### Languages and Tools:
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]() <br><br>
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
+[<img align="left" alt="nodejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />]()
+[<img align="left" alt="express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg
+" />]()
+[<img align="left" alt="react" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left" alt="Fast API" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/fastapi.svg" />]()
 [<img align="left" alt="Celery" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/celery.svg" />]()
@@ -24,9 +29,6 @@ Here on my GitHub profile you can see all my projects. Also I like to help new D
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]() <br><br>
-
-[<img align="left" alt="react" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]()
 
 [<img align="left" alt="Jupeter" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/jupyter.svg" />]()
 [<img align="left" alt="Panda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />]()
@@ -42,6 +44,9 @@ Here on my GitHub profile you can see all my projects. Also I like to help new D
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
 [<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
 
+<br>
+<br>
+<br>
 
 
 ![mohammed haroon Github stats](https://github-readme-stats.vercel.app/api?username=muhammadharoun&show_icons=true&&theme=blue-green)
