@@ -1,5 +1,7 @@
 # Mohammed haroon
 I'm a JavaScript Full-Stack Developer (Node.js, ReactJS).
+motivated and analytical web developer with hands-on very good experience in building projects. My key strengths are making things happen, attention to details, achieving my objectives, and creating impact. I am a quick learner and a good teacher with good hands-on experience teaching. I have a problem-solving mindset and an attentive listener.  I have the ability to work under pressure with good time management ability. I enjoy communicating with people and always could build positive strong and trustful relations with everyone I work with.  
+
 - 🤔 I use daily ```.js```,```.ts```,``` .py```, ```.sql```
 
 Here on my GitHub profile you can see all my projects. Also I like to help new Dev's to get inside this world and learning about software development.
