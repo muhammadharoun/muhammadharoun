@@ -5,7 +5,6 @@ I'm a JavaScript Full-Stack Developer (Node.js, ReactJS).<br />
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1RTpnd3y4CpYSfgjxy6U_pgFmBf3YecmU/view?usp=sharing)
-- ⚡ Fun fact: I love to Code and Sport
 
 - 🤔 I use daily ```.js```,```.ts```,``` .py```, ```.sql```
 
